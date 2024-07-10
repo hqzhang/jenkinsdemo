@@ -1,0 +1,30 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>bdevops</string>
+      <string>bdevops_6161327432907882688</string>
+    </entry>
+    <entry>
+      <string>rsekar</string>
+      <string>rsekar_2118821849288588238</string>
+    </entry>
+    <entry>
+      <string>zhanghongqi</string>
+      <string>zhanghongqi_14863402296820461066</string>
+    </entry>
+    <entry>
+      <string>ndas</string>
+      <string>ndas_7747916027205127940</string>
+    </entry>
+    <entry>
+      <string>emily</string>
+      <string>emily_5767693283913950124</string>
+    </entry>
+    <entry>
+      <string>hongqi</string>
+      <string>hongqi_8373348261133196402</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>

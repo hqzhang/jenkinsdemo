@@ -1,0 +1,26 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<scriptler plugin="scriptler@334.v29792d5a_c058">
+  <scriptSet class="sorted-set">
+    <script>
+      <id>testMetaFormat.groovy</id>
+      <name>Hello World example</name>
+      <comment>print some cool &lt;b&gt;stuff&lt;/b&gt;</comment>
+      <parameters/>
+      <available>true</available>
+      <nonAdministerUsing>false</nonAdministerUsing>
+      <onlyMaster>false</onlyMaster>
+    </script>
+    <script>
+      <id>testid.groovy</id>
+      <name>testone</name>
+      <comment></comment>
+      <parameters/>
+      <available>true</available>
+      <nonAdministerUsing>true</nonAdministerUsing>
+      <onlyMaster>false</onlyMaster>
+    </script>
+  </scriptSet>
+  <disbableRemoteCatalog>false</disbableRemoteCatalog>
+  <allowRunScriptPermission>false</allowRunScriptPermission>
+  <allowRunScriptEdit>false</allowRunScriptEdit>
+</scriptler>
